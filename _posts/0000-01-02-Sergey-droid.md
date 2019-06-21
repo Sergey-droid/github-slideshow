@@ -2,4 +2,4 @@
 Layout: slide
 Title: "Welcome to our second slide!"
 ---
-Glad to br here!
+Glad to be new member!
